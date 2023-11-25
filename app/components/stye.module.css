@@ -1,0 +1,11 @@
+.hide {
+  display: none;
+}
+.gridbox {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.grid-items > div {
+  padding: 0 2px;
+}
+/* login modal box */
